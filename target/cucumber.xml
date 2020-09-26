@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="8.188941">
+<testcase classname="Verifying Add place API using pojo classes" name="User is adding new place using add place API" time="8.188941">
+<system-out><![CDATA[Given user has the basic details for entering a place and using request spec builder.passed
+When user clicks on the post request and use response spec builder..........passed
+Then place should get added and status should be "200"......................passed
+When user clicks on get details using request spec builder and response spec builder.passed
+Then details should ge fetched successfully and status code should be "200".passed
+]]></system-out>
+</testcase>
+</testsuite>
